@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+	height: 250px;
+	width: 400px;
+	padding: 0px;
+}
+
+.container {
+	display: block;
+	position: relative;
+	top: 26px;
+	left: 40px;
+	border-right: 1px solid #1ba9f4;
+	border-bottom: 1px solid #1ba9f4;
+	text-align: center;
+	height: 200px;
+	width: 320px;
+	
+}
+
+.password {
+	display: inline-block;
+	border: 1px solid #1ba9f4;
+	border-right: 0px;
+	border-radius: 0px;
+	box-shadow: none;
+	box-sizing:border-box;
+	background-color: white;
+	padding: 5px;
+	color: #1ba9f4;
+	font-size: 16px;
+	width: 100%;
+}
+
+.butt {
+	display: inline-block;
+	position: relative;
+	left: 0px;
+	top: 10px;
+	background-repeat: no-repeat;
+	border: 1px;
+	border-style: solid;
+	background-color: #1ba9f4;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+	height: 30px;
+	width: 70px;
+}
+
+.butt:hover
+{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.butt:active
+{
+	background-color: #1081bc;
+}
+
+.logo
+{
+	display: block;
+	position: fixed;
+	border: 3px solid #1ba9f6;
+	top: 204px;
+	margin: auto;
+	height: 44px;
+	left: 0px;
+	cursor: pointer;
+	background-color: #1ba9f6;
+	color: white;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: sans-serif;
+	text-align: center;
+	width: 320px;
+}
+
+.logo:hover
+{
+	color: #1ba9f6;
+	background-color: white;
+}
+
+.red
+{
+	background-color: #fff0f0;
+}
+
+.hash
+{
+	pointer-events: none;
+}
+
+.show
+{
+	background-image: url(img/show.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}

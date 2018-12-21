@@ -1,0 +1,32 @@
+﻿<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="tooltip/isotip.css">
+<script type="text/javascript" src="jquery.min.js"></script>
+<script src="jshashes/hashes.js"></script>
+<script src="hash2.js"></script>
+<script type="text/javascript" src="tooltip/isotip.js"></script>
+<script type="text/javascript" src="popup.js"></script>
+</head>
+<body>
+
+
+
+<div id="container" class="container">
+	<input id="password" placeholder="here your password" type="password" class="password"><br>
+	<br>
+	<input id="hash" placeholder="here your hash" type="text" class="password hash"><br>
+	
+	<button id="viewPass" class="butt show tooltip-hover" data-tooltip-placement="top" data-tooltip-content="Show/Hide password">&nbsp;</button>
+	<button id="toHex" class="butt tooltip-hover" data-tooltip-placement="top" data-tooltip-content="Convert hash to hex">hex</button>
+	<button id="toBase64" class="butt tooltip-hover" data-tooltip-placement="top" data-tooltip-content="Convert hash to base64">base64</button>
+	<button id="toCopy" class="butt tooltip-hover" data-tooltip-placement="top" data-tooltip-content="Copy hash to clipboard">copy</button>
+	
+	<div id="logo" class="logo tooltip-hover" data-tooltip-placement="top" data-tooltip-content="You can find out more on our GitHub. (click)">pasHash # RIPEMD160(password)</div>
+</div>
+
+
+
+</body>
+</html>
