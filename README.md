@@ -24,7 +24,7 @@ Even if you memorize something like ~t8dL<$9k{ and use it by adding different en
 
 However, there no guarantee that somewhere the password will not be stored in plain-text.
 With pasHash you turn a password into a unique string:
-- dE5fzx/wl+45hTrnwVZaLaxFurQ= : BASE64(RIPEMD160( ~t8dL<$9k{google ))
+- FTBpRPfRTWdMhj0xvKzVaZk1W6Q= : BASE64(RIPEMD160( ~t8dL<$9k{google ))
 - X8M0M9+Rp7DsHd75ofsB0YsgMuE= : BASE64(RIPEMD160( ~t8dL<$9k{facebook ))
 
 Now, even if the bad guys can access to the databases, then they will not be able to apply this knowledge to other sites.<br>
