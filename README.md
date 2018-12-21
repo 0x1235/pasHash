@@ -1,5 +1,5 @@
 # pasHash
-Transform your password into a RIPEMD-160 hash on the client side.
+# Transform your password into a RIPEMD-160 hash on the client side.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Password managers are no longer needed :)<br>
 10-12 arbitrary characters are able to remember >99 percent of people.<br>
 Please use a really strong foundation for your password that cannot be picked up by brute force.<br>
 
-<b>Possible problems:</b>
+# Possible problems:
 
 According <a href="https://crackstation.net/hashing-security.htm">https://crackstation.net/hashing-security.htm</a>
 
