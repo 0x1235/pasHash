@@ -9,7 +9,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 This software uses:<br>
-jQuery - The jQuery Foundation - MIT License - https://jquery.org/license/
-isotip - Datu Health - Apache License, Version 2.0 - https://github.com/datuhealth/isotip/blob/master/LICENSE.MD ( was modify isotip.css )
-jshashes - Tomas Aparicio - BSD 3-Clause - https://github.com/h2non/jshashes/blob/master/LICENSE
+jQuery - The jQuery Foundation - MIT License - https://jquery.org/license/ <br>
+isotip - Datu Health - Apache License, Version 2.0 - https://github.com/datuhealth/isotip/blob/master/LICENSE.MD ( was modify isotip.css ) <br>
+jshashes - Tomas Aparicio - BSD 3-Clause - https://github.com/h2non/jshashes/blob/master/LICENSE <br>
 
