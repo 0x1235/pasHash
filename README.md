@@ -2,7 +2,7 @@
 Transform your password into a RIPEMD-160 hash on the client side.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-<b>pasHash</b> is a small program that allows you to hide your password from an aggressive environment.
+<b>pasHash</b> is a small script that allows you to hide your password from an aggressive environment.
 By transforming him into a RIPEMD-160 hash on the client side.
 For example, you use 'qwerty' as password on several sites, simply changing the ending.
 
@@ -41,3 +41,9 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 3) Using simple 'salt' is not safe.
 
 <img src="image1.jpg">
+
+# How to install it?
+
+1) From Chrome Web Store. Coming soon.
+2) Download archive with pasHash and run popup.html on your device.
+3) Try live demo
