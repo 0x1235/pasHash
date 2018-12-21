@@ -1,6 +1,5 @@
 # pasHash
-# Transform your password into a RIPEMD-160 hash on the client side.
-
+Transform your password into a RIPEMD-160 hash on the client side.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 <b>pasHash</b> is a small program that allows you to hide your password from an aggressive environment.
