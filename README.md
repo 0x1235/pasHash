@@ -46,4 +46,4 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 
 1) From Chrome Web Store. Coming soon.
 2) Download archive with pasHash and run popup.html on your device.
-3) Try live demo
+3) Try <a href="https://0x1235.github.io/pasHash/extension/popup.html">live demo</a>
