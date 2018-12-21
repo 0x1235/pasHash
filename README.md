@@ -27,11 +27,11 @@ With pasHash you turn a password into a unique string:
 - dE5fzx/wl+45hTrnwVZaLaxFurQ= : BASE64(RIPEMD160( ~t8dL<$9k{google ))
 - X8M0M9+Rp7DsHd75ofsB0YsgMuE= : BASE64(RIPEMD160( ~t8dL<$9k{facebook ))
 
-Now, even if the bad guys can access to the databases, then they will not be able to apply this knowledge to other sites.
-And you can store in memory only the basis of the password - ~t8dL<$9k
-Password managers are no longer needed :)
-10-12 arbitrary characters are able to remember >99 percent of people.
-Please use a really strong foundation for your password that cannot be picked up by brute force.
+Now, even if the bad guys can access to the databases, then they will not be able to apply this knowledge to other sites.<br>
+And you can store in memory only the basis of the password - ~t8dL<$9k<br>
+Password managers are no longer needed :)<br>
+10-12 arbitrary characters are able to remember >99 percent of people.<br>
+Please use a really strong foundation for your password that cannot be picked up by brute force.<br>
 
 <b>Possible problems:</b>
 
@@ -40,3 +40,5 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 1) Double hashing
 2) This code has not been verified by crypto professionals.
 3) Using simple 'salt' is not safe.
+
+<img src="image1.jpg">
