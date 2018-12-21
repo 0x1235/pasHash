@@ -33,7 +33,7 @@ Please use a really strong foundation for your password that cannot be picked up
 
 <b>Possible problems:</b>
 
-According this article <a href="https://crackstation.net/hashing-security.htm">https://crackstation.net/hashing-security.htm</a>
+According <a href="https://crackstation.net/hashing-security.htm">https://crackstation.net/hashing-security.htm</a>
 
 1) Double hashing
 2) This code has not been verified by crypto professionals.
