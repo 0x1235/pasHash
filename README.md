@@ -32,6 +32,8 @@ Password managers are no longer needed :)<br>
 10-12 arbitrary characters are able to remember >99 percent of people.<br>
 Please use a really strong foundation for your password that cannot be picked up by brute force.<br>
 
+<img src="image1.jpg">
+
 # Possible problems:
 
 According <a href="https://crackstation.net/hashing-security.htm">https://crackstation.net/hashing-security.htm</a>
@@ -39,8 +41,6 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 1) Double hashing
 2) This code has not been verified by crypto professionals.
 3) Using simple 'salt' is not safe.
-
-<img src="image1.jpg">
 
 # How to install it?
 
