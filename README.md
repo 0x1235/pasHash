@@ -39,7 +39,7 @@ Please use a really strong foundation for your password that cannot be picked up
 According <a href="https://crackstation.net/hashing-security.htm">https://crackstation.net/hashing-security.htm</a>
 
 1) Double hashing
-2) This code has not been verified by crypto professionals.
+2) This code has not been verified by crypto professionals. See <a href="https://www.reddit.com/r/crypto/comments/a8casj/lets_use_hashes_of_passwords_instead_of_passwords/">this discussion</a>.
 3) Using simple 'salt' is not safe.
 
 # How to install it?
