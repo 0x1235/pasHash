@@ -1,6 +1,7 @@
 # pasHash
-- Deterministic password generator.
-- Transform your password into a RIPEMD-160 hash on the client side.
+- It is deterministic password generator.
+- His transform your password into a RIPEMD-160 hash on the client side.
+- <a href="https://0x1235.github.io/pasHash/extension/popup.html">Live demo</a>
 --------------------------------------------------------------------------------------------------------------------------------------
 
 <b>pasHash</b> is a small javascript that allows you to hide your password from an aggressive environment.
