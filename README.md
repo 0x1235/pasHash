@@ -59,4 +59,6 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 
 <br><br><br><br>
 not for donations 
-TJcchj1UbdaMGMz6otnacD1KBHo2KG4gVT 1GeqjT5b85BZQWAoqk1BFwBMuuUNNDebcM https://drive.google.com/file/d/1ldC4Aa-xTmtFMPsGDjYvZ2NyEky-RSte/view
+TJcchj1UbdaMGMz6otnacD1KBHo2KG4gVT 1GeqjT5b85BZQWAoqk1BFwBMuuUNNDebcM https://drive.google.com/file/d/1ldC4Aa-xTmtFMPsGDjYvZ2NyEky-RSte/view?usp=sharing https://pastebin.com/ePks6UdX
+
+
