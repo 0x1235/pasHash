@@ -50,15 +50,3 @@ According <a href="https://crackstation.net/hashing-security.htm">https://cracks
 2) Download archive with pasHash and run popup.html on your device.
 3) Try <a href="https://0x1235.github.io/pasHash/extension/popup.html">live demo</a>
 
-
-
-
-
-
-
-
-<br><br><br><br>
-not for donations 
-TJcchj1UbdaMGMz6otnacD1KBHo2KG4gVT 1GeqjT5b85BZQWAoqk1BFwBMuuUNNDebcM https://drive.google.com/file/d/1ldC4Aa-xTmtFMPsGDjYvZ2NyEky-RSte/view?usp=sharing https://pastebin.com/ePks6UdX
-
-
